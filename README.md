@@ -60,6 +60,9 @@ int main() {
 ![](./swap_face.png)
 
 
+https://github.com/sherlockchou86/vp_face_swap/assets/13251045/118a5671-f82b-4dc6-9082-1f076eebcb50
+
+
 ## reference  ##
-1. [VidepPipe](https://github.com/sherlockchou86/video_pipe_c)
+1. [VideoPipe](https://github.com/sherlockchou86/video_pipe_c)
 2. [InsightFace](https://github.com/deepinsight/insightface)
